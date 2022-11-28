@@ -1,5 +1,5 @@
 # 1st code
-n=5
+n=6
 for i in range(n):
     for j in range(n):
         print(i,end=" ")
@@ -7,7 +7,7 @@ for i in range(n):
     
     
 # 2nd code
-n=5
+n=6
 for i in range(n):
     for j in range(n):
         print(n-i,end=" ")
@@ -15,7 +15,7 @@ for i in range(n):
     
     
 
-n=5
+n=6
 for i in range(n):
     for j in range(n):
         print(n-j,end=" ")
@@ -23,7 +23,7 @@ for i in range(n):
     
     
 
-n=5
+n=6
 for i in range(n):
     for j in range(n):
         print(max(n-j-1,n-i),end=" ")
