@@ -12,9 +12,9 @@ bin(65)
 a=65
 print(str(a))
 
-a="1234"
+a="12345678"
 print(int(a))
 
-a=1.5
+a=8.99
 print(float(a))
 

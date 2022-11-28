@@ -1,28 +1,28 @@
 # 1st code
-print(5+5)
+print(7+7)
 
-print(10-5)
+print(10-4)
 
-print(10/2)
+print(20/2)
 
-print(10//3)
+print(20//3)
 
-print(10%3)
+print(31%3)
 
 
 
 #2nd code
-print("Hardik"+"Arora")
+print("Ankit"+"Gupta")
 
 print("abc"*3)
 
 
 # 3rd code
-print(1==2)
+print(2==3)
 
-print(1!=2)
+print(2!=4)
 
-print(1<2)
+print(5<9)
 
 print(True and False)
 

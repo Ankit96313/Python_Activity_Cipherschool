@@ -1,8 +1,8 @@
 #1st code
-a=5
-if a==3:
-    print("the value is 3")
-elif a==5:
-    print("the value is 5")
+a=int(input("Enter a number: "))
+if a==6:
+    print("the value is 6")
+elif a==8:
+    print("the value is 8")
 else:
-    print("the value is not 3 or 5")
+    print("the value is not 6 or 8")
